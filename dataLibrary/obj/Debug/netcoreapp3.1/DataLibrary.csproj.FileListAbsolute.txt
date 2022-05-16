@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Seto\coding\C#\ConnectingToMQL\dataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.deps.json
+C:\Users\user\Desktop\Seto\coding\C#\ConnectingToMQL\dataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.dll
+C:\Users\user\Desktop\Seto\coding\C#\ConnectingToMQL\dataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.pdb
+C:\Users\user\Desktop\Seto\coding\C#\ConnectingToMQL\dataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seto\coding\C#\ConnectingToMQL\dataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seto\coding\C#\ConnectingToMQL\dataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seto\coding\C#\ConnectingToMQL\dataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfo.cs
+C:\Users\user\Desktop\Seto\coding\C#\ConnectingToMQL\dataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seto\coding\C#\ConnectingToMQL\dataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.dll
+C:\Users\user\Desktop\Seto\coding\C#\ConnectingToMQL\dataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.pdb
