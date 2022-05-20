@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Seto\\coding\\C#\\ConnectingToMQL\\BlazorServer\\BlazorServer.csproj": {}
+    "D:\\Project\\ConnectionMSQL\\BlazorServer\\BlazorServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Seto\\coding\\C#\\ConnectingToMQL\\BlazorServer\\BlazorServer.csproj": {
+    "D:\\Project\\ConnectionMSQL\\BlazorServer\\BlazorServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Seto\\coding\\C#\\ConnectingToMQL\\BlazorServer\\BlazorServer.csproj",
+        "projectUniqueName": "D:\\Project\\ConnectionMSQL\\BlazorServer\\BlazorServer.csproj",
         "projectName": "BlazorServer",
-        "projectPath": "C:\\Users\\user\\Desktop\\Seto\\coding\\C#\\ConnectingToMQL\\BlazorServer\\BlazorServer.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Seto\\coding\\C#\\ConnectingToMQL\\BlazorServer\\obj\\",
+        "projectPath": "D:\\Project\\ConnectionMSQL\\BlazorServer\\BlazorServer.csproj",
+        "packagesPath": "C:\\Users\\ehmseto_01\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\ConnectionMSQL\\BlazorServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ehmseto_01\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,8 +27,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Seto\\coding\\C#\\ConnectingToMQL\\dataLibrary\\DataLibrary.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Seto\\coding\\C#\\ConnectingToMQL\\dataLibrary\\DataLibrary.csproj"
+              "D:\\Project\\ConnectionMSQL\\dataLibrary\\DataLibrary.csproj": {
+                "projectPath": "D:\\Project\\ConnectionMSQL\\dataLibrary\\DataLibrary.csproj"
               }
             }
           }
@@ -52,6 +52,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.23, 3.1.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -60,21 +78,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Seto\\coding\\C#\\ConnectingToMQL\\dataLibrary\\DataLibrary.csproj": {
+    "D:\\Project\\ConnectionMSQL\\dataLibrary\\DataLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Seto\\coding\\C#\\ConnectingToMQL\\dataLibrary\\DataLibrary.csproj",
+        "projectUniqueName": "D:\\Project\\ConnectionMSQL\\dataLibrary\\DataLibrary.csproj",
         "projectName": "DataLibrary",
-        "projectPath": "C:\\Users\\user\\Desktop\\Seto\\coding\\C#\\ConnectingToMQL\\dataLibrary\\DataLibrary.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Seto\\coding\\C#\\ConnectingToMQL\\dataLibrary\\obj\\",
+        "projectPath": "D:\\Project\\ConnectionMSQL\\dataLibrary\\DataLibrary.csproj",
+        "packagesPath": "C:\\Users\\ehmseto_01\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\ConnectionMSQL\\dataLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ehmseto_01\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -118,12 +136,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
